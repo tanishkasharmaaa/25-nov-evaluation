@@ -1,0 +1,48 @@
+form{
+    font-family: Arial, Helvetica, sans-serif;
+  /* border: 1px solid; */
+  width:250px;
+  margin-left: 60px;
+ padding-right: 20px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 480px;
+  margin-top: 50px;
+  
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+h1{
+    color: rgb(40, 128, 204);
+    margin-left: 300px;
+    font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";;
+}
+div{
+    display: flex;
+    gap: 10px;
+}
+input[type=submit]{
+    width: 180px;
+    height: 30px;
+    border-radius: 15px;
+    background-color:rgb(40, 128, 204) ;
+}
+table td,
+table th{
+    border: 1px solid black;
+    padding: 8px;
+}
+table{
+    border: 1px solid black;
+    width: 60%;
+    margin: auto;;
+    margin-top: 50px;;
+    text-align: center;
+    margin-left: 40px;
+}
+tr{
+    border:solid black 1px;
+}
+
+
+
